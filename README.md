@@ -1,0 +1,4 @@
+# algebra
+Algebra is arabic for the gebra.
+
+Takes every english word that begins with the letters "al" and modifies the repo's namesake pun to the word. `words_restricted.txt` has the additional requirement that whatever remains after removing the al must also be an English word.
